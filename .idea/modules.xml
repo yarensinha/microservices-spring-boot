@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/microservices_comp.iml" filepath="$PROJECT_DIR$/.idea/microservices_comp.iml" />
       <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/payment-service/payment-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/service_registry/service_registry.iml" filepath="$PROJECT_DIR$/service_registry/service_registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry.iml" />
     </modules>
   </component>
 </project>
